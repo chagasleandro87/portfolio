@@ -21,9 +21,7 @@ Projeto desenvolvido com HTML, CSS e JAVASCRIPT meu portfolio onde mostro meus c
 * CSS
 * JAVASCRIPT
 
-## 🔖 Instalação
-
-* Baixar o NPM e o Node
+## 🔖 Layout
 
 * Abrir o projeto em uma IDE de preferência ou no terminal do sistema operacional
 ```bash
